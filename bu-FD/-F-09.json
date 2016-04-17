@@ -31,7 +31,7 @@
     "identifier": "bu-FD-F", 
     "increment": null, 
     "intensity_scalar": 0.0, 
-    "irradiation": "NoIrradiation A:22", 
+    "irradiation": "NoIrradiation", 
     "irradiation_level": "", 
     "irradiation_position": 0, 
     "isotopes": {
