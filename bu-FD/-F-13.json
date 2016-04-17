@@ -1,0 +1,66 @@
+{
+    "aliquot": 13, 
+    "analysis_type": "blank_unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "C:3 3.3mg", 
+    "commit": "7fe205d5f8579067f25f718e30d2d03de3b9dd61", 
+    "conditionals": [], 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "bu-FD-F", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NoIrradiation A:22", 
+    "irradiation_level": "", 
+    "irradiation_position": 0, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "", 
+    "measurement": "felix_peak_hop.py", 
+    "project": "", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Lunar", 
+    "sample": "blank_unknown", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-04-17T07:08:34.374924", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "a9e12a8c-3cc1-45e1-b9a9-f66c62436cae"
+}
