@@ -1,0 +1,27 @@
+{
+    "beam_diameter": "", 
+    "cleanup_duration": 60.0, 
+    "commit": "3a11e3ea2b317b73700b857effd31952ae377264", 
+    "extract_device": "NMGRL Furnace", 
+    "extract_duration": 300.0, 
+    "extract_units": "temp", 
+    "extract_value": 700.0, 
+    "pattern": "", 
+    "pid": "HO,10;XP,10;TI,48;TD,8", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "kCquTgAAAAA=", 
+    "response": "kCquTgAAAAA=", 
+    "sblob": "", 
+    "tray": "", 
+    "weight": 15.35
+}
