@@ -1,0 +1,66 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "D:2 1.40mg", 
+    "commit": "7d2fc2d4ff89b7e179795904850d6a9b1b692a53", 
+    "conditionals": [], 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "64074", 
+    "increment": 3, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-280", 
+    "irradiation_level": "D", 
+    "irradiation_position": 2, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "Whole Rock", 
+    "measurement": "felix_peak_hop.py", 
+    "project": "Patrick", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Lunar", 
+    "sample": "Apollo 15 15357", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-04-17T21:05:06.323445", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "00345a3b-0f42-4828-9950-bb908bd9f92c"
+}
