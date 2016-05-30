@@ -1,0 +1,66 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "E:6 WR shocked, 24.30 mg", 
+    "commit": "93f1d6015cffa3d5d34fd1e0d402a4b7fbc031a1", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_furnace.py", 
+    "identifier": "64086", 
+    "increment": 21, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-280", 
+    "irradiation_level": "E", 
+    "irradiation_position": 6, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "Whole Rock", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "Patrick", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Lunar", 
+    "sample": "Shocked Richardson", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-05-30T04:14:54.407235", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "04434b75-ed83-49b0-8144-397f52f67e6d"
+}
